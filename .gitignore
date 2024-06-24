@@ -1,0 +1,6 @@
+Pipfile
+Pipfile.lock
+# year, tmp log file 
+__pycache__
+202*
+tmp
